@@ -21,6 +21,9 @@
     "NuGet.Common": {
       "target": "project"
     },
+    "NuGet.Configuration": {
+      "target": "project"
+    },
     "NuGet.Packaging.Core": {
       "target": "project"
     },
